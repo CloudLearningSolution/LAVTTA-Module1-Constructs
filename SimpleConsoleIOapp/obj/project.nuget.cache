@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyHziCys+siTedJDXNSFwWcJxUk9ftTL4JWj62fpxdAzjGfrpfQcu+3wmGUyBWIA6HlkiNZQSuvI2cox3+R3cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\IntroProgrammingC_v2\\Mod1\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
