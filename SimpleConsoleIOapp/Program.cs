@@ -21,9 +21,6 @@ namespace SimpleConsoleIOapp
 
             }
 
-
-            //Create a feature for awaiting user input before terminating
-            Console.ReadLine();
         }
     }
 }
