@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dyHziCys+siTedJDXNSFwWcJxUk9ftTL4JWj62fpxdAzjGfrpfQcu+3wmGUyBWIA6HlkiNZQSuvI2cox3+R3cg==",
+  "dgSpecHash": "mNg60IcatLW5D7ufBYDlRgte4tFJGawae3mEWF/ADHXgKNCdrNyvKy3YQChrqBE/hK6EySpmLCguadk7SY7mZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\IntroProgrammingC_v2\\Mod1\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj",
+  "projectFilePath": "D:\\Allfiles\\Mod01\\src\\LAVTTA-Module1-Constructs\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
