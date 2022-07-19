@@ -4,7 +4,7 @@ namespace SimpleConsoleIOapp
 {
     class Program
     {
-        // Create Main() method.
+        //Define Main() method.
         static void Main(string[] args)
         {// Begining of Main() method.
             Console.WriteLine("**** Basic IO ****");
