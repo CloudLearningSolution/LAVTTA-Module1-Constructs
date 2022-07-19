@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dyHziCys+siTedJDXNSFwWcJxUk9ftTL4JWj62fpxdAzjGfrpfQcu+3wmGUyBWIA6HlkiNZQSuvI2cox3+R3cg==",
+  "dgSpecHash": "VW0gadi88FjKUo57f79LTlbElA2eu/vwbCYwqtegMfm842Z6TagHIAAYHGtFwR+z/pRA3DU3hFJVnCvubQbpGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\IntroProgrammingC_v2\\Mod1\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Allfiles\\Mod01\\Source\\LAVTTA-Module1-Constructs\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
