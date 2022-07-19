@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5aaf32e-6688-433e-806b-3c90c3cfb03c": {
+      "ProjectGuid": "b5aaf32e-6688-433e-806b-3c90c3cfb03c",
+      "DisplayName": "SimpleConsoleIOapp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
