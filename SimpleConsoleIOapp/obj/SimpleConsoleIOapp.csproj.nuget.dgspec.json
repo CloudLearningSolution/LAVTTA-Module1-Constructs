@@ -1,28 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\IntroProgrammingC_v2\\Mod1\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj": {}
+    "D:\\Allfiles\\Mod01\\src\\lavtta-module1-constructs\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\IntroProgrammingC_v2\\Mod1\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj": {
+    "D:\\Allfiles\\Mod01\\src\\lavtta-module1-constructs\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\IntroProgrammingC_v2\\Mod1\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj",
+        "projectUniqueName": "D:\\Allfiles\\Mod01\\src\\lavtta-module1-constructs\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj",
         "projectName": "SimpleConsoleIOapp",
-        "projectPath": "C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\IntroProgrammingC_v2\\Mod1\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\IntroProgrammingC_v2\\Mod1\\SimpleConsoleIOapp\\obj\\",
+        "projectPath": "D:\\Allfiles\\Mod01\\src\\lavtta-module1-constructs\\SimpleConsoleIOapp\\SimpleConsoleIOapp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Allfiles\\Mod01\\src\\lavtta-module1-constructs\\SimpleConsoleIOapp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,8 +51,20 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
+              "version": "[5.0.13, 5.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
             }
           ],
           "frameworkReferences": {
@@ -67,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.107\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
