@@ -5,7 +5,6 @@ D:\Allfiles\Mod01\src\LAVTTA-Module1-Constructs\SimpleConsoleIOapp\bin\Debug\net
 D:\Allfiles\Mod01\src\LAVTTA-Module1-Constructs\SimpleConsoleIOapp\bin\Debug\net5.0\SimpleConsoleIOapp.dll
 D:\Allfiles\Mod01\src\LAVTTA-Module1-Constructs\SimpleConsoleIOapp\bin\Debug\net5.0\ref\SimpleConsoleIOapp.dll
 D:\Allfiles\Mod01\src\LAVTTA-Module1-Constructs\SimpleConsoleIOapp\bin\Debug\net5.0\SimpleConsoleIOapp.pdb
-D:\Allfiles\Mod01\src\LAVTTA-Module1-Constructs\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.csproj.AssemblyReference.cache
 D:\Allfiles\Mod01\src\LAVTTA-Module1-Constructs\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Allfiles\Mod01\src\LAVTTA-Module1-Constructs\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.AssemblyInfoInputs.cache
 D:\Allfiles\Mod01\src\LAVTTA-Module1-Constructs\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.AssemblyInfo.cs
