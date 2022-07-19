@@ -6,7 +6,22 @@ namespace SimpleConsoleIOapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+          //Similar to print
+            Console.WriteLine("****Basic I0****");
+            GetUserData();
+           Console.ReadLine();
+
+        static void GetUserData()
+        {
+                // Get name and age 
+                Console.Write(" Enter your name:");
+                String UserName = Console.ReadLine();
+            Console.WriteLine("enter your age:");
+            String userAge = Console.ReadLine();
+
+                //Echo to the console
+                Console.WriteLine("Hello {0}! You are  {1} years old.", UserName, userAge);
+
+     
+        
+
