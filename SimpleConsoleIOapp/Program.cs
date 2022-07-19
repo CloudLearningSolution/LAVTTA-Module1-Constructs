@@ -3,20 +3,26 @@
 namespace SimpleConsoleIOapp
 {
     class Program
-    {;
-        //simiiar to print
-        Console.Writline("*********Basic I/O**********);
-        String userName = Console.ReadLine();
-        Console.Writeline("Enter your age:  ");
-        String userAge = Console.ReadLine();
-
+    {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine();
-
-            //Create a feaature for awaiting user input before teminiation
+            //simiiar to print
+            Console.WriteLine("*********Basic I/O**********");
+            GetUserData();
             Console.ReadLine();
+        }
+        static void GetUserData()
+        {
+            Console.Write("Enter your name: ");
+            string userName = Console.ReadLine();
+            Console.Write("Enter your age:  ");
+            string userAge = Console.ReadLine();
+
+            //Echo to the console
+            Console.WriteLine("Hello {0} you are {1} years old.", userName, userAge);
+
+
+
         }
     }
 }
