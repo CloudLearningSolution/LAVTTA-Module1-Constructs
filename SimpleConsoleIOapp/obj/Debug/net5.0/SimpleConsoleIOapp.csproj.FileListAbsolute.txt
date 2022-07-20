@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\bin\Debug\net5.0\SimpleConsoleIOapp.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\bin\Debug\net5.0\SimpleConsoleIOapp.deps.json
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\bin\Debug\net5.0\SimpleConsoleIOapp.runtimeconfig.json
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\bin\Debug\net5.0\SimpleConsoleIOapp.runtimeconfig.dev.json
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\bin\Debug\net5.0\SimpleConsoleIOapp.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\bin\Debug\net5.0\ref\SimpleConsoleIOapp.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\bin\Debug\net5.0\SimpleConsoleIOapp.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.AssemblyInfo.cs
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\obj\Debug\net5.0\ref\SimpleConsoleIOapp.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.genruntimeconfig.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod1\SimpleConsoleIOapp\obj\Debug\net5.0\SimpleConsoleIOapp.csproj.AssemblyReference.cache
